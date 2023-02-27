@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    background-color: aquamarine;
+}
+
+#Chatbot {
+    background-color: rgb(255, 253, 142);
+}
+
+#Games {
+    background-color: lightpink;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#myCarousel {
+    margin-top: 60px;
+}
+
+#myCarousel img {
+    margin-top: 50px;
+}
